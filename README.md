@@ -1,4 +1,7 @@
-# iTheme for [Cider](https://cider.sh/) <img src="https://img.shields.io/github/stars/yazninja/apple-cider-lite?style=social" width="70"></img>
+
+# Sosumi (a fork of iTheme) for [Cider](https://cider.sh/) <img src="https://img.shields.io/github/stars/yazninja/apple-cider-lite?style=social" width="70"></img>
+
+Brings back the Apple Icons temporarily till iTheme Plugin is fully deployable.
 
 Cider theme based from the Apple Music beta app in MacOS Monterey.
 Best used with `Mica(beta)` option in settings. 
